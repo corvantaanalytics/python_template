@@ -2,7 +2,6 @@ import logging
 from flask_sqlalchemy import SQLAlchemy
 import os
 
-
 db = SQLAlchemy()
 log = logging.getLogger("example_logger")
 
