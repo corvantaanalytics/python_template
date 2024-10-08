@@ -2,7 +2,6 @@ import logging
 import os
 import sys
 
-
 def get_logger():
     logger = logging.getLogger("example_logger")
     logger.setLevel(logging.INFO)
@@ -39,6 +38,5 @@ def get_logger():
         raise
 
     return logger
-
 
 logger = get_logger()
