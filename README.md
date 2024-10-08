@@ -1,3 +1,6 @@
+# python_template
+Template structure for Python projects
+
 # Flask Project Backend
 This project consists of a Flask backend API.
 
